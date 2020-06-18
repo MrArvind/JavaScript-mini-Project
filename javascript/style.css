@@ -1,0 +1,13 @@
+#value {
+    color: black;
+    font-weight: bold;
+    font-size: 5rem;
+    align-items: center;
+    right: 50px;
+    left: 50px;
+}
+
+#head {
+    color: darkslategray;
+    position: inherit;
+}
